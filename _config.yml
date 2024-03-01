@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ziang Li"
-# description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : " "
 repository               : "L1ziang/L1ziang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Ziang Li"
+  avatar           : "images_LZA/citations.jpeg"
   bio              : "Wuhan University"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=u43xE4IAAAAJ&hl=en"
   email            : "2018302180162@whu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
