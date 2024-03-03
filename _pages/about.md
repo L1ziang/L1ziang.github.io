@@ -25,19 +25,31 @@ I am a second-year master's student at <span style="color:purple">**the School o
 
 
 # 🔥 News
+- *2024.03.03*: &nbsp;One paper has been accepted by FGCS 🎉🎉. 
 - *2024.03.01*: &nbsp;One paper has been accepted by CVPR 2024 🎉🎉. 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images_LZA/4.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FGCS</div><img src='images_LZA/5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Stealthy Wrongdoer: XXXX](XXXX)
+[Penetralium: Privacy-preserving and memory-efficient neural network inference at the edge](https://www.sciencedirect.com/science/article/pii/S0167739X24000797)
 
-XXX
+Mengda Yang, Wenzhe Yi, Juan Wang*, Hongxin Hu, Xiaoyang Xu, **Ziang Li**
 
-- XXX
+- Penetralium is a novel model inference system that we design to provide robust security for deep learning computation at the edge. Penetralium is created with system and algorithm co-design, and has little overhead and no impact on prediction accuracy.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images_LZA/6.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Stealthy Wrongdoer: Feature-Oriented Reconstruction Attack against Split Learning](xxx)
+
+Xiaoyang Xu, Mengda Yang, Wenzhe Yi, **Ziang Li**, Juan Wang, Hongxin Hu, Yong Zhuang, Yaxin Liu
+
+- We propose a novel attack, named Feature-Oriented Reconstruction Attack (FORA). As far as we know, FORA is the first work enabling a semi-honest server to perform powerful DRA in more realistic and challenging SL systems.
 </div>
 </div>
 
