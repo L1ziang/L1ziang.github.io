@@ -21,7 +21,7 @@ redirect_from:
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-I am a second-year master's student at <span style="color:purple">**the School of Cyber Science and Engineering, Wuhan University**</span>. I will start my Ph.D. program next year (Successive Master-Doctor Program), advised by <span style="color:purple">**Prof. Juan Wang**</span>. My research mainly focuses on <span style="color:purple">**Trustworthy AI**</span>, especially privacy attacks/defenses in distributed learning paradigms (e.g., Split Learning, Federated Learning).
+I am a second-year master's student at <span style="color:purple">**the School of Cyber Science and Engineering, Wuhan University**</span>. I will start my Ph.D. program this year (Successive Master-Doctor Program), advised by <span style="color:purple">**Prof. Juan Wang**</span>. My research mainly focuses on <span style="color:purple">**Trustworthy AI**</span>, especially privacy attacks/defenses in distributed learning paradigms (e.g., Split Learning, Federated Learning).
 
 
 # 🔥 News
