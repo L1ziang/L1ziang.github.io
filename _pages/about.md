@@ -28,8 +28,13 @@ I am a second-year master's student at <span style="color:purple">**the School o
 - *2024.04.28*: &nbsp;Published vulnerability: CVE-2024-4291 🎉🎉. 
 - *2024.04.26*: &nbsp;The MV for "WanganjiDi" has been released [Audio](images_LZA/WanganjiDi.wav)🎉🎉. 
   <!-- [![Watch the video](images_LZA/7.jpg){:width="20%"}](images_LZA/WanganjiDi.MP4) -->
-  <div style="text-align: center;">
+  <!-- <div style="text-align: center;">
       <a href="images_LZA/WanganjiDi.MP4"><img src="images_LZA/7.jpg" width="25%"/></a>
+  </div> -->
+  <div style="text-align: center;">
+    <a href="images_LZA/WanganjiDi.MP4">
+        <img src="images_LZA/7.jpg" style="width: 25%; transform: translateX(-%25);" />
+    </a>
   </div>
 - *2024.03.03*: &nbsp;One paper has been accepted by FGCS 🎉🎉. 
 - *2024.03.01*: &nbsp;One paper has been accepted by CVPR 2024 🎉🎉. 
