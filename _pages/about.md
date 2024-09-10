@@ -25,8 +25,9 @@ I am a second-year master's student at <span style="color:purple">**the School o
 
 
 # 🔥 News
+- *2024.09.10*: &nbsp;One paper has been accepted by COMPSAC 2024 🎉🎉. 
 - *2024.04.28*: &nbsp;Published vulnerability: CVE-2024-4291 🎉🎉. 
-- *2024.04.26*: &nbsp;The MV for "WanganjiDi" has been released [Audio](images_LZA/WanganjiDi.wav)🎉🎉. 
+- *2024.04.26*: &nbsp;The MV for "WanganjiDi" has been released [Audio](images_LZA/WanganjiDi.wav) 🎉🎉. 
   [![Watch the video](images_LZA/7.jpg){:width="12%"}](images_LZA/WanganjiDi.MP4)
   <!-- <div style="text-align: center;">
       <a href="images_LZA/WanganjiDi.MP4"><img src="images_LZA/7.jpg" width="25%"/></a>
@@ -41,6 +42,17 @@ I am a second-year master's student at <span style="color:purple">**the School o
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COMPSAC 2024</div><img src='images_LZA/8.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CCall: Recovering Indirect Call Targets from Binaries With Cross-Domain Fine-Tuning](https://ieeexplore.ieee.org/abstract/document/10633585)
+
+Bin Weng, Yunru Wang, juan Wang*, Mengda Yang,  **Ziang Li**, Fei Li
+
+- We propose a novel cross-domain fine-tuning strategy based on domain adaptation, which can further study the semantics from the unlabeled test samples. This cross-domain finetuning strategy can also be applied in other AI-based downstream binary analysis tasks.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FGCS</div><img src='images_LZA/5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
