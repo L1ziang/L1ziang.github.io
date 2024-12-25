@@ -21,7 +21,9 @@ redirect_from:
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-I am a second-year master's student at <span style="color:purple">**the School of Cyber Science and Engineering, Wuhan University**</span>. I will start my Ph.D. program this year (Successive Master-Doctor Program), advised by <span style="color:purple">**Prof. Juan Wang**</span>. My research mainly focuses on <span style="color:purple">**Trustworthy AI**</span>, especially privacy attacks/defenses in distributed learning paradigms (e.g., Split Learning, Federated Learning).
+<!-- I am a second-year master's student at <span style="color:purple">**the School of Cyber Science and Engineering, Wuhan University**</span>. I will start my Ph.D. program this year (Successive Master-Doctor Program), advised by <span style="color:purple">**Prof. Juan Wang**</span>. My research mainly focuses on <span style="color:purple">**Trustworthy AI**</span>, especially privacy attacks/defenses in distributed learning paradigms (e.g., Split Learning, Federated Learning). -->
+
+I am a first-year Ph.D. student at <span style="color:purple">**the School of Cyber Science and Engineering, Wuhan University**</span>, advised by <span style="color:purple">**Prof. Juan Wang**</span>. My research mainly focuses on <span style="color:purple">**Trustworthy AI**</span>, especially privacy attacks/defenses in distributed learning paradigms (e.g., Split Learning, Federated Learning).
 
 
 # 🔥 News
@@ -113,6 +115,7 @@ Juan Wang*, Chenjun Ma, **Ziang Li**, Huanyu Yuan, Jie Wang
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2024.11* Lei Jun Computer Science Graduate Scholarship
 - *2023.11* DataCon2023 Big Data Security Analysis Competition - AI Security, Outstanding Team.
 - *2023.11* DataCon2023 Big Data Security Analysis Competition - Email Security, Outstanding Team. 
 - *2022.10* The 1st Privacy Computing and Data Security Challenge, Second Prize. 
@@ -120,7 +123,8 @@ Juan Wang*, Chenjun Ma, **Ziang Li**, Huanyu Yuan, Jie Wang
 - *2021.08* The 14th National College Student Information Security Competition - Works Competition, First Prize.
 
 # 📖 Educations
-- *2022.09 - 2024.03 (now)*, Wuhan University, Successive Master-Doctor Program - SCHOOL OF CYBER SCIENCE AND ENGINEERING
+- *2024.09 - (now)*, Wuhan University, Successive Master-Doctor Program (Ph.D. in progress) - SCHOOL OF CYBER SCIENCE AND ENGINEERING
+- *2022.09 - 2024.06 (now)*, Wuhan University, Successive Master-Doctor Program - SCHOOL OF CYBER SCIENCE AND ENGINEERING
 - *2018.09 - 2022.06*, Wuhan University, Bachelor of Engineering - SCHOOL OF CYBER SCIENCE AND ENGINEERING
 
 <!-- # 💬 Invited Talks
