@@ -124,7 +124,7 @@ Juan Wang*, Chenjun Ma, **Ziang Li**, Huanyu Yuan, Jie Wang
 
 # 📖 Educations
 - *2024.09 - (now)*, Wuhan University, Successive Master-Doctor Program (Ph.D. in progress) - SCHOOL OF CYBER SCIENCE AND ENGINEERING
-- *2022.09 - 2024.06 (now)*, Wuhan University, Successive Master-Doctor Program - SCHOOL OF CYBER SCIENCE AND ENGINEERING
+- *2022.09 - 2024.06*, Wuhan University, Successive Master-Doctor Program - SCHOOL OF CYBER SCIENCE AND ENGINEERING
 - *2018.09 - 2022.06*, Wuhan University, Bachelor of Engineering - SCHOOL OF CYBER SCIENCE AND ENGINEERING
 
 <!-- # 💬 Invited Talks
