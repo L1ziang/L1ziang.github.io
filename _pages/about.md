@@ -49,11 +49,11 @@ I am a first-year Ph.D. student at <span style="color:purple">**the School of Cy
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images_LZA/9.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[From Head to Tail: Efficient Black-box Model Inversion Attack via Long-tailed Learning](hhttps://github.com/L1ziang/SMILE)
+[From Head to Tail: Efficient Black-box Model Inversion Attack via Long-tailed Learning](https://github.com/L1ziang/SMILE)
 
-**Ziang Li**, Hongguang Zhang, Juan Wang, Meihui Chen, Hongxin Hu, Wenzhe Yi, Xiaoyang Xu, Mengda Yang, Chenjun Ma
+**Ziang Li**, Hongguang Zhang, Juan Wang*, Meihui Chen, Hongxin Hu, Wenzhe Yi, Xiaoyang Xu, Mengda Yang, Chenjun Ma
 
-- We introduce SMILE, an efficient black-box MIA. By combining long-tailed surrogate training and gradient-free black-box optimization, SMILE outperforms existing black-box MIAs while requiring about 5% of the query overhead. 
+- We introduce SMILE, an efficient black-box MIA. By combining long-tailed surrogate training and gradient-free black-box optimization, SMILE outperforms existing black-box MIAs with about 5% of the query overhead. 
 </div>
 </div>
 
