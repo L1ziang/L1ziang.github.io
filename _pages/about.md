@@ -27,6 +27,7 @@ I am a first-year Ph.D. student at <span style="color:purple">**the School of Cy
 
 
 # 🔥 News
+- *2025.03.01*: &nbsp;One paper has been accepted by CVPR 2025 🎉🎉. 
 - *2024.09.10*: &nbsp;One paper has been accepted by COMPSAC 2024 🎉🎉. 
 - *2024.04.28*: &nbsp;Published vulnerability: CVE-2024-4291 🎉🎉. 
 - *2024.04.26*: &nbsp;The MV for "WanganjiDi" has been released [Audio](images_LZA/WanganjiDi.wav) 🎉🎉. 
@@ -44,6 +45,17 @@ I am a first-year Ph.D. student at <span style="color:purple">**the School of Cy
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images_LZA/9.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From Head to Tail: Efficient Black-box Model Inversion Attack via Long-tailed Learning](hhttps://github.com/L1ziang/SMILE)
+
+**Ziang Li**, Hongguang Zhang, Juan Wang, Meihui Chen, Hongxin Hu, Wenzhe Yi, Xiaoyang Xu, Mengda Yang, Chenjun Ma
+
+- We introduce SMILE, an efficient black-box MIA. By combining long-tailed surrogate training and gradient-free black-box optimization, SMILE outperforms existing black-box MIAs while requiring about 5% of the query overhead. 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COMPSAC 2024</div><img src='images_LZA/8.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -70,7 +82,7 @@ Mengda Yang, Wenzhe Yi, Juan Wang*, Hongxin Hu, Xiaoyang Xu, **Ziang Li**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images_LZA/6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Stealthy Wrongdoer: Feature-Oriented Reconstruction Attack against Split Learning](xxx)
+[A Stealthy Wrongdoer: Feature-Oriented Reconstruction Attack against Split Learning](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_A_Stealthy_Wrongdoer_Feature-Oriented_Reconstruction_Attack_against_Split_Learning_CVPR_2024_paper.html)
 
 Xiaoyang Xu, Mengda Yang, Wenzhe Yi, **Ziang Li**, Juan Wang, Hongxin Hu, Yong Zhuang, Yaxin Liu
 
