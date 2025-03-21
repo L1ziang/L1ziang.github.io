@@ -23,7 +23,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- I am a second-year master's student at <span style="color:purple">**the School of Cyber Science and Engineering, Wuhan University**</span>. I will start my Ph.D. program this year (Successive Master-Doctor Program), advised by <span style="color:purple">**Prof. Juan Wang**</span>. My research mainly focuses on <span style="color:purple">**Trustworthy AI**</span>, especially privacy attacks/defenses in distributed learning paradigms (e.g., Split Learning, Federated Learning). -->
 
-I am a first-year Ph.D. student at <span style="color:purple">**the School of Cyber Science and Engineering, Wuhan University**</span>, advised by <span style="color:purple">**Prof. Juan Wang**</span>. My research mainly focuses on <span style="color:purple">**Trustworthy AI**</span>, especially privacy attacks/defenses in distributed learning paradigms (e.g., Split Learning, Federated Learning).
+I am a first-year Ph.D. student at <span style="color:purple">**the School of Cyber Science and Engineering, Wuhan University**</span>, advised by <span style="color:purple">**Prof. Juan Wang**</span>. My research mainly focuses on <span style="color:purple">**Trustworthy AI**</span>, especially privacy attacks/defenses in distributed learning paradigms.
 
 
 # 🔥 News
