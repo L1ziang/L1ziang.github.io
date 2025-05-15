@@ -50,7 +50,7 @@ I am a first-year Ph.D. student at <span style="color:purple">**the School of Cy
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images_LZA/9.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[From Head to Tail: Efficient Black-box Model Inversion Attack via Long-tailed Learning](https://github.com/L1ziang/SMILE)
+[From Head to Tail: Efficient Black-box Model Inversion Attack via Long-tailed Learning](https://arxiv.org/abs/2503.16266)
 
 **Ziang Li**, Hongguang Zhang, Juan Wang*, Meihui Chen, Hongxin Hu, Wenzhe Yi, Xiaoyang Xu, Mengda Yang, Chenjun Ma
 
