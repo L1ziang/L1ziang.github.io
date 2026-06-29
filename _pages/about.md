@@ -23,7 +23,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- I am a second-year master's student at <span style="color:purple">**the School of Cyber Science and Engineering, Wuhan University**</span>. I will start my Ph.D. program this year (Successive Master-Doctor Program), advised by <span style="color:purple">**Prof. Juan Wang**</span>. My research mainly focuses on <span style="color:purple">**Trustworthy AI**</span>, especially privacy attacks/defenses in distributed learning paradigms (e.g., Split Learning, Federated Learning). -->
 
-I am a first-year Ph.D. student at <span style="color:purple">**the School of Cyber Science and Engineering, Wuhan University**</span>, advised by <span style="color:purple">**Prof. Juan Wang**</span>. My research mainly focuses on <span style="color:purple">**Trustworthy AI**</span>, especially privacy attacks/defenses in distributed learning paradigms. Currently, I am enrolled in a joint doctoral training program at the <span style="color:purple">**Shanghai Innovation Institute**</span>.
+I am a second-year Ph.D. student at <span style="color:purple">**the School of Cyber Science and Engineering, Wuhan University**</span>, advised by <span style="color:purple">**Prof. Juan Wang**</span>. My research mainly focuses on <span style="color:purple">**Trustworthy AI**</span>, especially privacy attacks/defenses in distributed learning paradigms. Currently, I am enrolled in a joint doctoral training program at the <span style="color:purple">**Shanghai Innovation Institute**</span>, focusing on VLA and WAM.
  <!-- (e.g., Split Learning, Federated Learning). -->
 
 
@@ -47,6 +47,17 @@ I am a first-year Ph.D. student at <span style="color:purple">**the School of Cy
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images_LZA/10.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Light-WAM: Efficient World Action Models with State-Fusion Action Decoding](https://arxiv.org/abs/2606.08242)
+
+**Ziang Li**, Dongzhou Cheng, Yibin Wang, Shiyue Wang, Xiaoyang Xu, Lingxuan Weng, Juan Wang*, Jiaqi Wang*
+
+- Light-WAM is a lightweight world action model for robot manipulation that uses a compact video backbone and downsampled latent space for efficient future-video supervision, combined with a StateFusionActionExpert for direct action prediction. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images_LZA/9.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -58,7 +69,7 @@ I am a first-year Ph.D. student at <span style="color:purple">**the School of Cy
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COMPSAC 2024</div><img src='images_LZA/8.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COMPSAC 2024</div><img src='images_LZA/8.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CCall: Recovering Indirect Call Targets from Binaries With Cross-Domain Fine-Tuning](https://ieeexplore.ieee.org/abstract/document/10633585)
@@ -67,7 +78,7 @@ Bin Weng, Yunru Wang, juan Wang*, Mengda Yang,  **Ziang Li**, Fei Li
 
 - We propose a novel cross-domain fine-tuning strategy based on domain adaptation, which can further study the semantics from the unlabeled test samples. This cross-domain finetuning strategy can also be applied in other AI-based downstream binary analysis tasks.
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FGCS</div><img src='images_LZA/5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
