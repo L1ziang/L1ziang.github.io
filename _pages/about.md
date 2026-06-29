@@ -52,7 +52,7 @@ I am a second-year Ph.D. student at <span style="color:purple">**the School of C
 
 [Light-WAM: Efficient World Action Models with State-Fusion Action Decoding](https://arxiv.org/abs/2606.08242)
 
-**Ziang Li**, Dongzhou Cheng, Yibin Wang, Shiyue Wang, Xiaoyang Xu, Lingxuan Weng, Juan Wang*, Jiaqi Wang*
+**Ziang Li**, Dongzhou Cheng, Yibin Wang, Shiyue Wang, Xiaoyang Xu, Lingxuan Weng, Juan Wang\*, Jiaqi Wang\*
 
 - Light-WAM is a lightweight world action model for robot manipulation that uses a compact video backbone and downsampled latent space for efficient future-video supervision, combined with a StateFusionActionExpert for direct action prediction. 
 </div>
